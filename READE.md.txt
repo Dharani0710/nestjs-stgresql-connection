@@ -1,0 +1,32 @@
+
+We would like to have an assessment test to proceed further with your application
+I. Job Description Software Development Engineer Intern (Backend)
+1. Write reusable code blocks and finish the coding within the stipulated time
+2. Test out your code before sending it forward to the testing team
+3. Create and integrate database with its complete maintenance
+4. Design frameworks to develop server side software
+5. Identify problem areas and bring relevant changes
+6. Collaborate with front end developer for integration of the application
+7. Perform UI tests to ensure maximum performance.
+8. Work with front-end developers and team members for better evaluation and design
+codes and programs accordingly
+9. Follow latest technological trends and emerging technologies
+10. Possess amazing knowledge of NestJs and SQL
+11. Use application logic to check the feasibility of the application
+12. Follow agile development methodologies
+13. Good experience of working with building back-end APIs
+I.I Required Assessment for SDE Intern (Backend)
+Important note: Write unit tests to ensure that the API functions as expected using Nest.js
+only (https://nestjs.com).
+1. Create a Nest.js-based API that allows users to interact with a PostgreSQL
+database.
+2. Use the Nest.js framework to create endpoints for CRUD (create, read, update, and
+delete) operations.
+3. Use TypeORM to define the schema for the data and interact with the database.
+4. Implement error handling and validation for user input.
+5. Implement authentication and authorization for the API using JSON Web Tokens
+(JWTs).
+6. Use Git for version control and GitHub for code hosting.
+7. Write clean, maintainable, and well-documented code.
+8. To complete this task, you should have a good understanding of Nest.js, Express.js,
+PostgreSQL, TypeORM, JWTs, and Git. 
